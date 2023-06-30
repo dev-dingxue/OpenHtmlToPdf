@@ -10,46 +10,52 @@
     <script src="./dist/html2pdf.bundle.js"></script>
 ```
 ## 自定义的css演示
-  ``` css
-     .button {
-                background-color: #3296FA;
-                border: none;
-                color: white;
-                padding: 15px 32px;
-                text-align: center;
-                text-decoration: none;
-                display: inline-block;
-                font-size: 16px;
-                margin: 4px 2px;
-                cursor: pointer;
-                position: fixed;
-                right: 3%;
-                bottom: 50%;
-            }
-    .btnOne{
-        bottom: 30% !important;
-    }
-    #Form1{
-        width: 95%;
-        margin: 0 auto;       
-    }
-    .main_p_print {
-        padding-left: 9px;
-        width: 95%;
-        margin: 0 auto;
-    }
-    .PopTip {
-        position: fixed;
-        top: 50px;
-        right: 38px;
-        font-size: 16px;
-    }
-    .PopTip span{
-        color: red;
-        font-size: inherit;
-        display: inline-block;
-        padding: 0 5px;
-    }
+
+``` css
+      .button {
+            background-color: #3296FA;
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            position: fixed;
+            right: 3%;
+            bottom: 50%;
+        }
+
+        .btnOne {
+            bottom: 30% !important;
+        }
+
+        #Form1 {
+            width: 95%;
+            margin: 0 auto;
+        }
+
+        .main_p_print {
+            padding-left: 9px;
+            width: 95%;
+            margin: 0 auto;
+        }
+
+        .PopTip {
+            position: fixed;
+            top: 50px;
+            right: 38px;
+            font-size: 16px;
+        }
+
+        .PopTip span {
+            color: red;
+            font-size: inherit;
+            display: inline-block;
+            padding: 0 5px;
+        }
 ```
 
 ## html dom元素
