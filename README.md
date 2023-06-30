@@ -10,7 +10,7 @@
     <script src="./dist/html2pdf.bundle.js"></script>
 ```
 ## 自定义的css演示
-  ``` css3
+  ``` css
      .button {
                 background-color: #3296FA;
                 border: none;
@@ -54,7 +54,7 @@
 
 ## html dom元素
 
-```html5
+```html
 <div class="PopTip">
   请用非<span>IE浏览器</span>打印。<br>
   建议使用Goolge Chrome <br> 或者 火狐浏览器（Firefox）
