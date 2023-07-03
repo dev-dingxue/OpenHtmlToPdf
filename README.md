@@ -66,6 +66,8 @@
   建议使用Goolge Chrome <br> 或者 火狐浏览器（Firefox）
 </div>
 
+ <button class="button">分发学生下载</button>
+
 ```
 
 
